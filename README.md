@@ -2,7 +2,7 @@
 assortment of ti 84 programs for making things easier
 
 ## physics programs
-- [ ] vector adder
+- [x] vector adder
 - [ ] cross product
 - [ ] projectile motion sim
 - [ ] radial motion calc
